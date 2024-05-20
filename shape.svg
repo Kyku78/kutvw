@@ -1,0 +1,9 @@
+<svg height="200" width="500" viewbox="0 0 500 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="grad1">
+            <stop offset="50%" stop-color="#FF8F70" />
+            <stop offset="100%" stop-color="#C44F6C" />
+        </linearGradient>
+    </defs>
+    <ellipse cx="-92" cy="-29" rx="600" ry="180" fill="url(#grad1)" />
+</svg>
